@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e8a18cc-5bd6-4553-bb14-a4738f750d3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Drop Sort 3/Assets/Scripts/Score.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Drop Sort 3/Assets/Scripts/Barrier.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Drop Sort 3/Assets/Scripts/AIMovementPoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Drop Sort 4/Assets/Scripts/Spawner.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Destroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoint2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovementPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sign.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Settings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FirebaseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimedSpawner.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rMIt9mRxHqyXsJFMxIONjtzjV3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e8a18cc-5bd6-4553-bb14-a4738f750d3e" name="Default Changelist" comment="" />
+      <created>1618779744619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618779744619</updated>
+      <workItem from="1618779758637" duration="3191000" />
+      <workItem from="1618830624353" duration="18171000" />
+      <workItem from="1618931010233" duration="12281000" />
+      <workItem from="1619005534393" duration="32433000" />
+      <workItem from="1619091029674" duration="3200000" />
+      <workItem from="1619094374749" duration="1782000" />
+      <workItem from="1619097145695" duration="302000" />
+      <workItem from="1619393983470" duration="5581000" />
+      <workItem from="1619453050629" duration="22879000" />
+      <workItem from="1619734139917" duration="195000" />
+      <workItem from="1619743803810" duration="1252000" />
+      <workItem from="1620245337045" duration="5793000" />
+      <workItem from="1620257920505" duration="28000" />
+      <workItem from="1620262447616" duration="1698000" />
+      <workItem from="1620302257710" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618946390928">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050/-1080.-489.1080.1890@0.0.1920.1050" timestamp="1618946390928" />
+    <state x="92" y="92" width="1736" height="864" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1619017518003">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="864" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1050/-1080.-489.1080.1890@0.0.1920.1050" timestamp="1619017518003" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619548915455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1080.-489.1080.1890@0.0.1920.1050" timestamp="1619548915455" />
+  </component>
+</project>

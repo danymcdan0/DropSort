@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52fc3f04-543b-441f-8f43-4f667d70e502" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/FirebaseManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa10280.15766/UnityFirebaseAuthTutorial-master/FirebaseAuthTutorialCompleteProject/Assets/Scripts/AuthManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa800.47227/UnityFirebaseDatabaseTutorial-main/FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/FirebaseManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa800.49591/UnityFirebaseDatabaseTutorial-main/FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/UIManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/UIManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa5652.13760/UnityFirebaseDatabaseTutorial-main/FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/FirebaseManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa9148.12178/UnityFirebaseAuthTutorial-master/FirebaseAuthTutorialStarterProject/Assets/Scripts/UIManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa800.49005/UnityFirebaseDatabaseTutorial-main/FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/ScoreElement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa5652.14135/UnityFirebaseDatabaseTutorial-main/FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/ScoreElement.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sign.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Barrier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AuthManager.cs" />
+        <option value="$PROJECT_DIR$/../FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/FirebaseManager.cs" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa800.49005/UnityFirebaseDatabaseTutorial-main/FirebaseDatabaseTutorialCompleteProject/Assets/Scripts/ScoreElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sign.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovementPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimedSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckPoint2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/DoNotDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FirebaseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Settings.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oFrRadRj8hsXfHO39RkCq61ghF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52fc3f04-543b-441f-8f43-4f667d70e502" name="Default Changelist" comment="" />
+      <created>1612893173483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612893173483</updated>
+      <workItem from="1612893178638" duration="2765000" />
+      <workItem from="1613581382069" duration="6294000" />
+      <workItem from="1617212195307" duration="733000" />
+      <workItem from="1617213775239" duration="24000" />
+      <workItem from="1617379773415" duration="7662000" />
+      <workItem from="1617395141707" duration="887000" />
+      <workItem from="1617396370110" duration="1694000" />
+      <workItem from="1618139202227" duration="22735000" />
+      <workItem from="1618221326687" duration="10310000" />
+      <workItem from="1618692368582" duration="11056000" />
+      <workItem from="1618771903681" duration="1921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1207" y="252" key="RiderGenerateDialog" timestamp="1618428078835">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1207" y="252" key="RiderGenerateDialog/0.0.1920.1050/-1080.-489.1080.1890@0.0.1920.1050" timestamp="1618428078835" />
+  </component>
+</project>
